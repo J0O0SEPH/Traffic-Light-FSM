@@ -1,1 +1,0 @@
-.\texasscope.o: TExaSscope.c
